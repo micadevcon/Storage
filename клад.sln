@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "клад", "клад.vcxproj", "{29FC41F2-864B-4783-B13D-C589863B95EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Debug|x64.ActiveCfg = Debug|x64
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Debug|x64.Build.0 = Debug|x64
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Debug|x86.Build.0 = Debug|Win32
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Release|x64.ActiveCfg = Release|x64
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Release|x64.Build.0 = Release|x64
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Release|x86.ActiveCfg = Release|Win32
+		{29FC41F2-864B-4783-B13D-C589863B95EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D509F2-D917-407F-8BBA-5B4560DABCE7}
+	EndGlobalSection
+EndGlobal
